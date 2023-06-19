@@ -1,0 +1,72 @@
+*,
+html {
+  padding:0;
+  margin:0;
+}
+
+.hr-projek {
+  height:px;
+}
+
+
+.ul-menu {
+  display:flex;
+  padding:10px;
+  align-items:center;
+  justify-content:center;
+  height:30px;
+  text-decoration:none;
+}
+
+.li-menu {
+  color:black;
+  list-style-type:none;
+  padding:10px;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+.img-container {
+  
+}
+
+.gambar1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  align-items:center;
+  justify-content:center;
+}
+
+.h1-container {
+    
+}
+
+.h1-projek {
+  height:40px;
+  align-items:center;
+  justify-content:center;
+}
+
+.p-projek {
+  height:70px;
+}
+
+.hr-2 {
+  height:10px;
+}
+
+.h1-projek2 {
+  height:100px;
+}
+
+table {
+  height:300px;
+}
+
+.a2-projek {
+  height:200px;
+}
